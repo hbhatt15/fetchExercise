@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                        Design & Thought Process
+                                                          Design & Thought Process
 
 Requirements:
  - add points to user account for specific payer and date
@@ -64,7 +64,7 @@ Read Query:
 Iterate through the payer map and return the results
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                    How to run me
+                                                        How to run me
 This is java springboot application, so we just need to ./gradlew bootrun
 It runs on 8080
 
